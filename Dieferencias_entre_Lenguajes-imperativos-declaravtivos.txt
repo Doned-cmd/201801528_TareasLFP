@@ -1,0 +1,40 @@
+Lenguajes de programación imperativos
+Es un paradigma de programacion que consiste en escribir detallamandamente el proceso que llevara a cabo
+el programa, es decir se responden las preguntas que y como, ¿Qué se hara? y ¿Cómo es que se hara esto?
+se detalla, claramente que se hara y el proceso o metodo para hacerlo instruccion por instruccion
+
+						
+Lenguajes de programacón declarativos
+En este paradigma de programacion solamente se responde la pregunta ¿Qué se hará?, Es decir solo se le indica
+a la maquina lo que se quiere a travez de una sentencia simple, siendo mas corto que el paradigma imperativo,
+simplemente se introduce que se quiere hacer y la maquina debe buscar el como. 
+Ejemplo imperativo:
+
+Este es un metodo burbuja, sirve para ordenar los numeros en un arreglo, de la forma en que esta escrito es 
+un imperativo, ya que indica como se debe realizar todo, paso a paso.
+static void burbuja1(int arreglo[])
+    {
+        for(int i = 0; i < arreglo.lenght(); i++)
+        {
+            for(int j = 0; j < arreglo.lenght(); j++)
+            {
+                if (arreglo[j] < arreglo[j + 1])
+                {
+                    int tmp = arreglo[j+1];
+                    arreglo[j+1] = arreglo[j];
+                    arreglo[j] = tmp;
+                    
+                
+                }
+            }
+        }
+     
+    }
+
+Ejemplo declaravtivo:
+
+De esta forma fuera declarativo, porque solo se escribe que se debe de hacer, sin detallar paso por paso
+Aunque claro las instrucciones estaran detalladas en alguna otra parte nosotros no le estamos indicando 
+como realizarlo.
+
+Ordering.BubbleSort(int arreglo[]);
