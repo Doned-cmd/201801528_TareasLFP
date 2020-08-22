@@ -1,0 +1,27 @@
+{
+    "empleado": [{
+            "nombre": "José Ernesto",
+            "edad": 20,
+            "username": "jose",
+            "password": "321423"
+        },
+        {
+            "nombre": "Daniel Pérez",
+            "edad": 30,
+            "username": "dperez",
+            "password": "433543"
+        },
+        {
+            "nombre": "Bryan Mendez",
+            "edad": 18,
+            "username": "Bendez",
+            "password": "fdas15155"
+        },
+        {
+            "nombre": "Gerber Colindres",
+            "edad": 15,
+            "username": "Gcolin",
+            "password": "4fds112"
+        }
+    ]
+}
