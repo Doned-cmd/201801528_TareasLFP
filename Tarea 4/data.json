@@ -1,0 +1,61 @@
+[{
+        "nombre": "Persona 1",
+        "edad": 20,
+        "activo": true,
+        "saldo": 45151.79
+    },
+    {
+        "nombre": "Persona 2",
+        "edad": 90,
+        "activo": false,
+        "saldo": 61565.69
+    },
+    {
+        "nombre": "Persona 3",
+        "edad": 32,
+        "activo": true,
+        "saldo": 1265.79
+    },
+    {
+        "nombre": "Persona 4",
+        "edad": 34,
+        "activo": true,
+        "saldo": 3465.83
+    },
+    {
+        "nombre": "Persona 5",
+        "edad": 70,
+        "activo": false,
+        "saldo": 1100.90
+    },
+    {
+        "nombre": "Persona 6",
+        "edad": 27,
+        "activo": false,
+        "saldo": 6876.90
+    },
+    {
+        "nombre": "Persona 7",
+        "edad": 31,
+        "activo": true,
+        "saldo": 1269.16
+    },
+    {
+        "nombre": "Persona 8",
+        "edad": 55,
+        "activo": true,
+        "saldo": 11200.32
+    },
+    {
+        "nombre": "Persona 9",
+        "edad": 60,
+        "activo": true,
+        "saldo": 23200.67
+    },
+    {
+        "nombre": "Persona 10",
+        "edad": 28,
+        "activo": true,
+        "saldo": 9115.67
+    }
+]
